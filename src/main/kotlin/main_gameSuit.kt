@@ -1,5 +1,6 @@
 import java.util.*
-
+// base code from https://github.com/kokotak/Game-Batu-Gunting-Kertas-Kotlin
+// modify by
 fun main() {
 
     println("Masukan Nama Player 1?")
